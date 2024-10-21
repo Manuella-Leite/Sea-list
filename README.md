@@ -1,4 +1,6 @@
+ <strong>Sea List</strong> uma site de tarefas, que te ajuda a otimizar e organizar suas tarefas diárias de uma maneira rápida e eficiente 
+ 
  ![Captura de tela 2024-10-21 165554](https://github.com/user-attachments/assets/e0588b03-a411-4203-90b0-ad956d80be9c)
  <br>
  
-![Captura de tela 2024-10-21 165714](https://github.com/user-attachments/assets/7efd812f-7776-442a-be20-32f26c7a96b4)
+![WhatsApp Image 2024-10-21 at 17 04 04](https://github.com/user-attachments/assets/f7148c0e-8f14-4d54-b25c-f818351a7574)
