@@ -1,5 +1,21 @@
 document.addEventListener('DOMContentLoaded', () => {
     const audio = document.getElementById('musica');
+    
+    // Função para iniciar a música
+    const playMusic = () => {
+        audio.play().catch(error => {
+            console.error("Erro ao tentar reproduzir a música:", error);
+        });
+    };
+
+    // Inicia a música com um clique em qualquer lugar da página
+    document.body.addEventListener('click', playMusic);
+    
+    // Seu código existente continua...
+});
+
+document.addEventListener('DOMContentLoaded', () => {
+    const audio = document.getElementById('musica');
     const botaoControlar = document.getElementById('botao-controlar');
     let isMuted = false;
 
