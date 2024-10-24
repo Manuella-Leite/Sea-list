@@ -48,7 +48,7 @@ ul {
     display: flex;
     gap: 0.5rem;
     align-items: center;
-    margin: 2% 0% 2% 0%;
+    margin: 0% 0% 2% 0%;
 }
 
 .title {
@@ -216,7 +216,7 @@ ul {
 }
 
 .content-body {
-    max-height: 200px; /* Ajuste a altura máxima conforme necessário */
+    max-height: 150px; /* Ajuste a altura máxima conforme necessário */
     overflow-y: auto; /* Adiciona a rolagem vertical */
     padding: 10px; /* Espaçamento interno */
 }
